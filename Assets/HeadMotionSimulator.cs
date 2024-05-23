@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class HeadMotionSimulator : MonoBehaviour
 {
-    public string csvFilePath = "C:/Users/mohammad.elahi/Desktop_activity/head_motion2.csv";
+    public string csvFilePath = "U:/Project/VR-Head-Motion-Simulator/head_motion.csv";
     private List<HeadMotionData> motionData;
     private int currentIndex = 0;
     private float timeBetweenRows = 0.001f; // 1 millisecond

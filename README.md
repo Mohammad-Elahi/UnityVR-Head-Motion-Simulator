@@ -3,7 +3,7 @@
 ![VR-Head-Motion-Simulator](https://github.com/Mohammad-Elahi/VR-Head-Motion-Simulator/assets/93424032/a3558de8-a5e8-41ae-b578-8bd5a4722771)
 
 # Description
-This repository contains a C# script that simulates head motion in a Unity VR environment using head data which is timeframe, position:x,y,z, and Orientation:qx,qy,qz,qw that exist in the CSV file.
+This repository contains a C# script designed to simulate head motion within a Unity VR environment. The script utilizes head data, including timeframe, positional coordinates (x, y, z), and orientation parameters (qx, qy, qz, qw), all of which are sourced from a CSV file.
 
 ## Requirements
 Unity Editor version 2022.3.19f1. If you want to download the repository and run it in your Unity, you should adjust your Unity editor version to 2022.3.19f1. Alternatively, you can use the instructions and C# code with your own Unity editor version.
